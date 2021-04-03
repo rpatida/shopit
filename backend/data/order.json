@@ -1,0 +1,24 @@
+{
+	"itemsPrice" : 20,
+	"taxPrice" : 5,
+	"shippingPrice" : 5,
+	"totalPrice" : 30,
+	"orderItems" :[{
+		"product" : "603954b39b79570e98fd7d16",
+		"name" :  "Apple",
+		"price" : 20,
+		"image" : "localhost:4000",
+		"quantity" : 1
+	}],
+	"shippingInfo" : {
+		"address" : "Bon Vivant",
+		"city" : "Pune",
+		"phoneNo" : 1234567890,
+		"postalCode" : 451225,
+		"country" : "India"
+	},
+	"paymentInfo" : {
+		"id" : "p1_3453457983kjnk",
+		"status" : "success"
+	}
+}
